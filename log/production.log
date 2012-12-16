@@ -1,0 +1,56 @@
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:35) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:40) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:42) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:42) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:43) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:44) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 72.34.233.122 at 2012-12-16 07:29:45) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/davidkim/rails_apps/test2/public/404.html (404 Not Found)
